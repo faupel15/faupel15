@@ -1,16 +1,26 @@
-### Hi there 👋
+# Hi there, I'm Nick! 👋
 
-<!--
-**faupel15/faupel15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a data analyst with several years of experience working with complex data sets to drive strategic decision-making. I am passionate about all things business and a firm believer in leveraging data and technology to make businesses better for their customers, employees, and the communities in which they operate. 
 
-Here are some ideas to get you started:
+## 📚 Learning
+🔍 I'm continually expanding my knowledge by exploring new concepts, revisiting past topics with a fresh perspective, and regularly adding new books, subjects, and skills to my ever-growing list of "Things to Learn." C'est la vie.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently brushing up on and learning more about machine learning libraries and methods in Python.
+
+
+## 🎓 Education
+
+- Masters in Data Analytics from The Ohio State University Fisher College of Business
+- Bachelor's degree in Finance and Operations Management from Indiana University Kelley School of Business
+
+
+## 🛠 Skills, Languages, Tools
+
+Languages: Python, R, SQL
+Platforms: Jupyter, RStudio, Tableau, Excel, Alteryx
+
+## 🗣 Connect
+
+Feel free to connect with me or reach out for collaboration opportunities! 👇
+
+[Email](mailto:nickfaupel@gmail.com)  |  [LinkedIn](https://www.linkedin.com/in/nickfaupel/) 
